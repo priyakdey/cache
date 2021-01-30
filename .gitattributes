@@ -1,0 +1,5 @@
+# Declare files that will always have LF line endings on checkout.
+*.properties eol=lf
+*.yml        eol=lf
+*.yaml       eol=lf
+*.java       eol=lf
