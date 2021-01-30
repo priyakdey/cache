@@ -3,3 +3,4 @@
 *.yml        eol=lf
 *.yaml       eol=lf
 *.java       eol=lf
+*.xml        eol=lf
